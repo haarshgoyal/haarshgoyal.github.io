@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # How I read member only⭐ articles on Medium.com without paying $5/month.
 
